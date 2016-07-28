@@ -1,0 +1,4 @@
+---
+#Main mysql tasks file
+
+- include: mariadb.yml
